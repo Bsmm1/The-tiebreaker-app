@@ -58,10 +58,7 @@ An AI-powered decision-making assistant that helps you break the tie on tough ch
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
 
-Contributions and feature requests are welcome! Feel free to reach out or submit a pull request.
 
----
 
-*Built with ❤️ to help the world make better decisions.*
+
